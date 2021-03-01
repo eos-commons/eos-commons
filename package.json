@@ -16,7 +16,7 @@
     "eosjs": "^20.0.3",
     "jszip": "git+https://github.com/Stuk/jszip.git",
     "lodash": "^4.17.15",
-    "three": "^0.116.1",
+    "three": "^0.125.0",
     "tiptap-vuetify": "^1.7.0",
     "vue": "^2.6.11",
     "vue-mixin-tween": "^0.1.3",
